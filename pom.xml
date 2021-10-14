@@ -118,6 +118,7 @@
   </build>
 
   <modules>
+    <module>onlyoffice</module>
     <module>wopi</module>
   </modules>
 
